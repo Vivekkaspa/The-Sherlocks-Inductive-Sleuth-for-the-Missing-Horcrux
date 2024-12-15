@@ -158,14 +158,6 @@ See full results in our paper.
 
 ## Citations
 
-If you use this repo, please cite the following paper. This repo is mainly based on [MetaR](https://github.com/AnselCmy/MetaR) repo, and code in `subgraph_extraction/` is largely borrowed from [Grail](https://github.com/kkteru/grail).
+This repo is mainly based on [MetaR](https://github.com/AnselCmy/MetaR) repo, and code in `subgraph_extraction/` is largely borrowed from [Grail](https://github.com/kkteru/grail).
 
-```
-@inproceedings{
- csr2022,
- title={Few-shot Relational Reasoning via Connection Subgraph Pretraining},
- author={Qian Huang, Hongyu Ren and Jure Leskovec},
- booktitle={Neural Information Processing Systems},
- year={2022}
-}
-```
+
