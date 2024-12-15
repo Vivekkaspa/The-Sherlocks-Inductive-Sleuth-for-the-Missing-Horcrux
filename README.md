@@ -5,13 +5,9 @@ Paper: https://arxiv.org/abs/2210.06722
 
 We propose Connection Subgraph Reasoner (CSR) to make predictions for the few-shot relational reasoning task directly by self-supervised pre-training over knowledge graphs. 
 
-![main figure](./pictures/figure.png)
 
 Specifically, we design a self-supervised pretraining scheme with the objective of reconstructing automatically sampled connection subgraphs. 
 
-<p align="center">
-  <img src="./pictures/recon.png" alt="reconstruction" width="1000"/>
-</p>
 
 ## Requirements
 
