@@ -1,5 +1,5 @@
 
-Our work is based on the paper "Few-shot Relational Reasoning via Connection Subgraph Pretraining (NeurIPS 2022)"
+This is based on the paper **Few-shot Relational Reasoning via Connection Subgraph Pretraining (NeurIPS 2022)**
 
 ## Requirements
 
